@@ -5,4 +5,4 @@ i'm coming ;;;; to do;
 ni you lai le , da gou zi;
 on the line
 Creating a new branch is quick......
-Creating a new branch is quick & simple.^^^^^^^^^^^^^^^^^^^^
+Creating a new branch is quick and simple.////////////
